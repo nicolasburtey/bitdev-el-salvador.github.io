@@ -8,22 +8,7 @@ meetup: "https://t.me/+o7Y6CJSKueI4Yzc5"
 ## Announcements
 Please join us for our next Socratic Seminar.
 
-## Presentation
-- 
+## Links:
+- Ocean protocol
+- 83 btc fee potentially as a result of compromised wallet and multiple attackers bidding for 100+ btc. https://x.com/mononautical/status/1728946778798793126?s=46
 
-## Mailing Lists, Meetings and Bitcoin Optech
-### Mailing Lists
-#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-
-### Meetings
-
-### Optech
-
-## Network Data
-
-## CVEs and Research
-### Research
-
-### InfoSec
-
-## Pull Requests and repo updates
