@@ -17,9 +17,9 @@ Please join us for our next Socratic Seminar.
 
 [BIP: output descriptors for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022200.html)
 
-[Swift Activation - CTV](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022215.html)
-
 [Rethinking Lightning](https://stacker.news/items/379225)
+
+[Swift Activation - CTV](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022215.html)
 
 [QuantumCats](https://www.quantumcats.xyz/)
 
