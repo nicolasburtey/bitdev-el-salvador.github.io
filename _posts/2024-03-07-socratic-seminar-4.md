@@ -14,6 +14,7 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/298655688/"
 
 - [Summer of Bitcoin](https://twitter.com/summerofbitcoin/status/1753414874045329505?s=20)
 - [New bitcoin dev mailing list](https://twitter.com/kanzure/status/1756055826723217659)
+- [Hiring a mobile dev](https://x.com/nicolasburtey/status/1765726222170943534?s=20)
 - [New El Salvador regulations](https://x.com/bitcoinofficesv/status/1763942130160922726?s=20)
 
 # Topics
