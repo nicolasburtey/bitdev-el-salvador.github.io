@@ -17,6 +17,8 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/298655688/"
 
 # Topics
 
+- [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai/)
+- [BTCpayserver x Blink](https://x.com/FREEMadeiraOrg/status/1764720341459304891?s=20)
 - [Coffee transaction](https://twitter.com/KeithMukai/status/1753178714441941392)
 - [Valid same word BIP39 seeds](https://twitter.com/raw_avocado/status/1753041127215604066?cxt=HBwWxIWxhcDnhtQwAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
 - [Dual funding bolt merged](https://github.com/lightning/bolts/pull/851)
@@ -33,4 +35,3 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/298655688/"
 - [0-conf channels and v3 anchors](https://delvingbitcoin.org/t/0conf-ln-channels-and-v3-anchors/494)
 - [purrfect vault](https://github.com/taproot-wizards/purrfect_vault)
 - [segwit malleability](https://bitcoinops.org/en/newsletters/2024/02/07/#requirement-to-verify-inputs-use-segwit-in-protocols-vulnerable-to-txid-malleability)
-- [mercury layer](https://mercurylayer.com/)
