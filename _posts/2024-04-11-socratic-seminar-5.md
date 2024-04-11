@@ -13,6 +13,7 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/300029038/"
 # Topics
 
 - [halving](https://bitcoin.clarkmoody.com/dashboard/)
+- [future fees spike?](https://twitter.com/dannydiekroeger/status/1776669572915142939?s=46)
 - [Slipstream](https://twitter.com/marathondh/status/1760760058281910309?s=46)
 - [marathon "art"](https://mempool.space/block/0000000000000000000341cc26cda4af82cd25f7063c448772228cbf2836915b?audit=false)
 - [Conference subpoena](https://x.com/peterktodd/status/1778068726920753468)
