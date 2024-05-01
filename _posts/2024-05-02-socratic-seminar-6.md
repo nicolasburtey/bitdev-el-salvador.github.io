@@ -13,6 +13,8 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/300745489/"
 # Topics
 
 - [halving fees](https://x.com/glassnode/status/1784883504100053291)
+- [samourai indicted](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
+- [mining pool centralization](https://www.tftc.io/bitcoin-mining-pool-centralization/)
 - [bitcoin core v27](https://x.com/murchandamus/status/1780332546699505925)
 - [viaBTC tx prioritization](https://x.com/mononautical/status/1782791176434721202)
 - [great consensus cleanup](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
