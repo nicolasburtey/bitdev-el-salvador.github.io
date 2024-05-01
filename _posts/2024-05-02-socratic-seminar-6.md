@@ -12,5 +12,9 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/300745489/"
 
 # Topics
 
-- halving fees
-- [coinbase add lightning](https://x.com/coinbase/status/1785309426691273092)
+- [halving fees](https://x.com/glassnode/status/1784883504100053291)
+- [bitcoin core v27](https://x.com/murchandamus/status/1780332546699505925)
+- [viaBTC tx prioritization](https://x.com/mononautical/status/1782791176434721202)
+- [great consensus cleanup](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
+- [coinbase adds lightning](https://x.com/coinbase/status/1785309426691273092)
+- [Mevil](https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/)
