@@ -12,6 +12,7 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/300745489/"
 
 # Topics
 
+- [lnd 0.18](https://github.com/lightningnetwork/lnd/blob/master/docs/release-notes/release-notes-0.18.0.md)
 - [bitcoin precarious position](https://bluematt.bitcoin.ninja/2024/05/11/bitcoins-precarious-position/)
 - [Ark Labs Launch](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b)
 - [DNMs and eCash](https://delvingbitcoin.org/t/dnm-ecash-and-privacy/916)
