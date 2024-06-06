@@ -21,3 +21,4 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/300745489/"
 - [Silent payment: a bitcoin username?](https://podcasts.apple.com/us/podcast/stephan-livera-podcast/id1415720320?i=1000656901291)
 - [empty block report](https://research.mempool.space/empty-block-report/)
 - [ZkCoins](https://twitter.com/robin_linus/status/1781832291938877704)
+- [Riot mining take over attempt](https://www.nobsbitcoin.com/riot-acquires-9-25-stake-in-bitfarms-following-rejected-950m-takeover-offer/)
