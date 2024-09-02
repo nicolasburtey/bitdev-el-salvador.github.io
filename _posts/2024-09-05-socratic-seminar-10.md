@@ -17,4 +17,4 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/302875973"
 - [Testnet4 timewarp softfork](https://github.com/bitcoin/bitcoin/issues/30786)
 - [ZK Stark Proofs on Bitcoin](https://x.com/StarkWareLtd/status/1813929304209723700)
 - [CPUnet](https://x.com/BobMcElrath/status/1823370268728873411)
-
+- [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
