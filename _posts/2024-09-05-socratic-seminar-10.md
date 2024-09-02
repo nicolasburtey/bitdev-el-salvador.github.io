@@ -15,6 +15,6 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/302875973"
 - [ArkLabs secures $2.5 million pre-seed](https://blog.arklabs.to/ark-labs-secures-2-5-million-pre-seed-to-power-the-future-of-bitcoin-driven-global-commerce-9b5b19fe1a37)
 - New features for Core [Pay To Anchor Package Relay Merged](https://github.com/bitcoin/bitcoin/pull/30352) / [AssumeUtxo added to mainnet](https://github.com/bitcoin/bitcoin/pull/30352)
 - [Testnet4 timewarp softfork](https://github.com/bitcoin/bitcoin/issues/30786)
-- [ZK Stark Proofs on Bitcoin] (https://x.com/StarkWareLtd/status/1813929304209723700)
+- [ZK Stark Proofs on Bitcoin](https://x.com/StarkWareLtd/status/1813929304209723700)
 - [CPUnet](https://x.com/BobMcElrath/status/1823370268728873411)
 
