@@ -18,3 +18,4 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/302875973"
 - [ZK Stark Proofs on Bitcoin](https://x.com/StarkWareLtd/status/1813929304209723700)
 - [CPUnet](https://x.com/BobMcElrath/status/1823370268728873411)
 - [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+- [LDK 0.0.124 released](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.124)
