@@ -29,14 +29,10 @@ Discussion
 
 - [Coinbase supports P2TR](https://x.com/CoinbaseAssets/status/1843712761391399318)
 - [Spark from Lightspark](https://spark.info/)
-
-
 - [Nodeless Lightning from Breez](https://x.com/Liquid_BTC/status/1854273521347858663)
 - [Security / cost tradeoff](https://x.com/giacomozucco/status/1850100668255662208)
 - [Bitcoin Fog User Roman Sterlingov Gets 12.5 Years for Allegedly Running It Based on 'Junk Science'](https://www.nobsbitcoin.com/bitcoin-fog-user-roman-sterlingov-gets-12-5-years-for-allegedly-running-it-based-on-junk-science/)
 - [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap)
-
-
 - [Second team demos mainnet Ark txs](https://x.com/2ndbtc/status/1838233706454233194)
 - [Tornado Cash Dev Denied Appeal](https://www.nobsbitcoin.com/tornado-cash-developer-roman-storm-to-face-criminal-trial-judge-rules/)
 - [BOLT12 added to Lightning Specification](https://github.com/lightning/bolts/commit/aed3d28d5a202a0dd7b037fca4c04f58242fa909)
