@@ -9,6 +9,8 @@ Housekeeping
 ------------
 
 - This meetup is generously sponsored by [Galoy](https://galoy.io/)
+- our meetups focus solely on Bitcoin. We do not welcome discussions about Web3 or any other "crypto" projects at our events. If you are interested in crypto discussions there are a number of other meetups to join.
+- Please give your attention to the presenters during the seminar and keep side conversations to zero.
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
