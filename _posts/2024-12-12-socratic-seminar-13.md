@@ -8,7 +8,6 @@ meetup: "https://www.meetup.com/san-salvador-bitdevs/events/304777647"
 Housekeeping
 ------------
 
-- This meetup is generously sponsored by [Galoy](https://galoy.io/)
 - our meetups focus solely on Bitcoin. We do not welcome discussions about Web3 or any other "crypto" projects at our events. If you are interested in crypto discussions there are a number of other meetups to join.
 - Please give your attention to the presenters during the seminar and keep side conversations to zero.
 - Questions are encouraged, including basic ones!
