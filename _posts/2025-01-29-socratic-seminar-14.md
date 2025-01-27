@@ -37,4 +37,4 @@ Discussion
 - [Covenant proposals](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
 - [Ark explorer](https://virtual-explorer.pages.dev/)
 - [Lightning routing replayer](https://bluematt.bitcoin.ninja/2024/11/22/ln-routing-replay/)
-- 
+- [Fake channels are real](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
