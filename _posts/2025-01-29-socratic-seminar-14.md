@@ -26,4 +26,15 @@ Chain Weather Report
 Discussion
 ----------
 
-[Ross free](https://x.com/Free_Ross/status/1881851923005165704)
+- [Ross free](https://x.com/Free_Ross/status/1881851923005165704)
+- [Trump block](https://mempool.space/block/000000000000000000010c05038d08c742d28a7a248e9d0f94ebe5102f366c8e?audit=false&showDetails=false&view=actual#overview)
+- [Cubo+ school](https://x.com/giacomozucco/status/1883527951700181287)
+- [SAB121 repealed](https://kpmg.com/us/en/frv/reference-library/2025/sec-rescinds-sab-121.html)
+
+- [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
+- [De-anonymization attacks on centralized coinjoins](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ?pli=1)
+- [Bull Bitcoin does Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
+- [Covenant proposals](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
+- [Ark explorer](https://virtual-explorer.pages.dev/)
+- [Lightning routing replayer](https://bluematt.bitcoin.ninja/2024/11/22/ln-routing-replay/)
+- 
