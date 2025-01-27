@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 14"
-meetup: "https://lu.ma/97kfurjl"
+luma: "https://lu.ma/97kfurjl"
 ---
 
 Housekeeping
