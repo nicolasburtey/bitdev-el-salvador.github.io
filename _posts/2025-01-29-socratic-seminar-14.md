@@ -31,6 +31,8 @@ Discussion
 - [Cubo+ school](https://x.com/giacomozucco/status/1883527951700181287)
 - [SAB121 repealed](https://kpmg.com/us/en/frv/reference-library/2025/sec-rescinds-sab-121.html)
 
+- [Address poisoning attack](https://xcancel.com/mononautical/status/1883802593677435065)
+- [Replacement Cycling attacks on Bitcoin Miners Block Templates](https://groups.google.com/g/bitcoindev/c/ZspZzO4sBys)
 - [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
 - [De-anonymization attacks on centralized coinjoins](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ?pli=1)
 - [Bull Bitcoin does Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
