@@ -34,6 +34,7 @@ Discussion
 - [Replacement Cycling attacks on Bitcoin Miners Block Templates](https://groups.google.com/g/bitcoindev/c/ZspZzO4sBys)
 - [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
 - [De-anonymization attacks on centralized coinjoins](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ?pli=1)
+- [f2pool censoring transactions](https://x.com/0xb10c/status/1879904229911126101?s=46)
 - [Bull Bitcoin does Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - [Covenant proposals](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
 - [Ark explorer](https://virtual-explorer.pages.dev/)
