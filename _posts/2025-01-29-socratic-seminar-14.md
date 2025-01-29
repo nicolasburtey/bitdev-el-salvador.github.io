@@ -30,8 +30,7 @@ Discussion
 - [Trump block](https://mempool.space/block/000000000000000000010c05038d08c742d28a7a248e9d0f94ebe5102f366c8e?audit=false&showDetails=false&view=actual#overview)
 - [Cubo+ school](https://x.com/giacomozucco/status/1883527951700181287)
 - [SAB121 repealed](https://kpmg.com/us/en/frv/reference-library/2025/sec-rescinds-sab-121.html)
-
-- [Address poisoning attack](https://xcancel.com/mononautical/status/1883802593677435065)
+- [Address poisoning attack](https://x.com/mononautical/status/1883802593677435065)
 - [Replacement Cycling attacks on Bitcoin Miners Block Templates](https://groups.google.com/g/bitcoindev/c/ZspZzO4sBys)
 - [Email volume to dev mailing list down](https://x.com/lopp/status/1874803077288755257?mx=2)
 - [De-anonymization attacks on centralized coinjoins](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ?pli=1)
@@ -40,3 +39,4 @@ Discussion
 - [Ark explorer](https://virtual-explorer.pages.dev/)
 - [Lightning routing replayer](https://bluematt.bitcoin.ninja/2024/11/22/ln-routing-replay/)
 - [Fake channels are real](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
+- [Ledger co-founder kidnapped](https://x.com/0xLouisT/status/1882711063306666287)
