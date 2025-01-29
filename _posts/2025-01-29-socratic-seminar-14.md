@@ -15,6 +15,11 @@ Housekeeping
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 
+Agenda
+------
+4:00p - 4:30p: Arrival & Networking
+4:30p - 6p: Socratic Seminar focused on various technical Bitcoin topics
+
 Chain Weather Report
 --------------------
 
