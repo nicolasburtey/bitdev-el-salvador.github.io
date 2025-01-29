@@ -17,8 +17,8 @@ Housekeeping
 
 Agenda
 ------
-4:00p - 4:30p: Arrival & Networking
-4:30p - 6p: Socratic Seminar focused on various technical Bitcoin topics
+- 4:00p - 4:30p: Arrival & Networking
+- 4:30p - 6p: Socratic Seminar focused on various technical Bitcoin topics
 
 Chain Weather Report
 --------------------
