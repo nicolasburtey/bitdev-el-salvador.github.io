@@ -39,7 +39,6 @@ Discussion
 - [The Risks of Expressive Smart Contracts: Lessons from the Latest Ethereum Hack](https://blog.blockstream.com/the-risks-of-expressive-smart-contracts-lessons-from-the-latest-ethereum-hack/)
 - [Super Testnet: How Coinpools Improve Bitcoin](https://njump.me/naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr)
 - [UTXOracle is updated](https://x.com/SteveSimple/status/1889325264808677668)
-
 - [ldk pathfinding](https://lightningdevkit.org/blog/ldk-pathfinding/)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
