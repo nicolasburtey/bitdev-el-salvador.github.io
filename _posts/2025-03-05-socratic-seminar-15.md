@@ -55,4 +55,3 @@ Discussion
 - [Erlay: Overview and current approach](https://delvingbitcoin.org/t/erlay-overview-and-current-approach/1415)
 - [Emulating OP_RAND](https://delvingbitcoin.org/t/emulating-op-rand/1409)
 - [MultisigBackup.com: Backup and recover a k-of-n descriptor using only n seeds](https://delvingbitcoin.org/t/multisigbackup-com-backup-and-recover-a-k-of-n-descriptor-using-only-n-seeds/1430)
-
