@@ -40,6 +40,8 @@ Discussion
 - [Super Testnet: How Coinpools Improve Bitcoin](https://njump.me/naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr)
 - [UTXOracle is updated](https://x.com/SteveSimple/status/1889325264808677668)
 
+- [ldk pathfinding](https://lightningdevkit.org/blog/ldk-pathfinding/)
+
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [Call for reconfiguration of nodes to relay transactions with fee-rates below 1 sat/vbyte](https://groups.google.com/g/bitcoindev/c/3CRqKviJY_M)
