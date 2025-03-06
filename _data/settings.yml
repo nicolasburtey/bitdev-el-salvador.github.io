@@ -5,5 +5,5 @@ menu:
   # - { name: "About", url: "/about" }
   - { name: "Events", url: "/events" }
   # - { name: "Blog", url: "/blog" }
-  - { name: "Luma", url: "https://lu.ma/97kfurjl", external: true }
+  # - { name: "Luma", url: "https://lu.ma/97kfurjl", external: true }
   # - { name: "Cities", url: "/cities" }
