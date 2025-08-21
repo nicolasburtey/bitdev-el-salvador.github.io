@@ -1,4 +1,5 @@
-# BitDevs NYC
+# BitDevs El Salvador, San Salvador
+https://bitdevelsalvador.com/
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
